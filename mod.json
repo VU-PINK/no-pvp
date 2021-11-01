@@ -1,0 +1,12 @@
+{
+    "Name": "No PVP",
+    "Description": "Puts those pesky humans in one place",
+    "Authors": ["P!NK_Lesley aka PowerChopper"],
+    "Tags": ["no-pvp"],
+    "Version": "1.0.0",
+    "HasVeniceEXT": true,
+    "HasWebUI": false,
+    "Dependencies": {
+        "veniceext": "^1.0.0"
+    }
+}
